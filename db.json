@@ -370,5 +370,87 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "Rua São joao",
+      "number": "3",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "burger"
+        },
+        {
+          "quantity": 1,
+          "menuId": "fries"
+        },
+        {
+          "quantity": 1,
+          "menuId": "coke.png"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "Av Cosme Ferreira",
+      "number": "5",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "zlasagna"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "Rua ouro preto",
+      "number": "8",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "coke.png"
+        },
+        {
+          "quantity": 1,
+          "menuId": "burger"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "address": "Rua São geraldo",
+      "number": "6",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "fries"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "address": "São João ",
+      "number": "5",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "burger"
+        },
+        {
+          "quantity": 1,
+          "menuId": "coke.png"
+        }
+      ],
+      "id": 5
+    }
+  ]
 }

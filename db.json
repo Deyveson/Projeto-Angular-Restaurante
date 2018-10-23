@@ -451,6 +451,23 @@
         }
       ],
       "id": 5
+    },
+    {
+      "address": "Palmeiras do Miriti",
+      "number": "5",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "fries"
+        },
+        {
+          "quantity": 1,
+          "menuId": "burger"
+        }
+      ],
+      "id": 6
     }
   ]
 }
